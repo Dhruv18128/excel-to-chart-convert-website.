@@ -10,14 +10,13 @@ No login. No server uploads. 100% privacy.
 ## 🚀 Features
 
 -   Upload **Excel (.xlsx, .xls)** and **CSV** files
--   Supports **7 chart types**:
+-   Supports **6 chart types**:
     -   Bar Chart
     -   Line Chart
     -   Pie Chart
     -   Doughnut Chart
     -   Scatter Plot
     -   Area Chart
-    -   Histogram
 -   Built-in **demo datasets & templates**
 -   Interactive charts using **Plotly**
 -   Download charts as **PNG**
