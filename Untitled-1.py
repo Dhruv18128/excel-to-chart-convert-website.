@@ -305,7 +305,7 @@ def main():
             load_sales_template()
     
     with col2:
-        if st.button("💰 Financial Report", key="finance_template"):
+        if st.button("💰 ", key="finance_template"):
             load_finance_template()
     
     with col3:
@@ -591,3 +591,4 @@ def generate_chart(chart_type, x_column, y_column, title):
 
 if __name__ == "__main__":
     main()
+
